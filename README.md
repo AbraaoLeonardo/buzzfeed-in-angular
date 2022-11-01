@@ -1,27 +1,45 @@
-# Buzzfeed
+<img src="https://user-images.githubusercontent.com/101459029/199346411-331d606f-67f7-4ce9-a2a0-8bc765fedabd.png" alt="site image">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+# Projeto desenvolvido no bootcamp da DIO NTT
+[PT]
+## Como rodar esse projeto no seu computador?
+primeiramente, devemos instalar 3 programas
++ <a href="https://git-scm.com/download/"> Git</a> para podermos baixar nosso código
++ Precisamos do <a href="https://git-scm.com/download/"> nodejs</a> para instalar o angular
++ E o <a href="https://git-scm.com/download/"> git</a> para conseguiremos rodar nossa aplicação
+## No windows
+Abra o git bash, vá na pasta que deseja baixar o programa
+## No linux
+aperte **CTRL + ALT + T** para abrir o terminal, navegue até a pasta que deseja fazer o download
 
-## Development server
+para navegar entre as pasta, use o comando cd(change directory)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Acessando a pasta, cole o comando `git clone https://github.com/AbraaoLeonardo/buzzfeed-in-angular`
 
-## Code scaffolding
+agora conseguiremos rodar a aplicação com o comando ng serve
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Abra o navegador e digite localhost:4200.
 
-## Build
+# Não se preocupe, não armazenaremos nenhuma das suas respostas 😜:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+[ENG]
+# Project developed on dio bootcamp
+## How to run on your computer?
+First, we needed to download 3 programs.
++ <a href="https://git-scm.com/download/"> Git </a>to download or code
++ Precisamos do <a href="https://nodejs.org/en/download/"> nodejs </a>to install angular
++ E o angular cli this is needed to run the application. On terminal, type `npm install -g @angular/cli` 
+## In windows
+Open the git bash where you will download the application.
+## In Linux
+Hold **CTRL + ALT + T** to open the terminal, access the folder you want to download the application
 
-## Running unit tests
+To navigate between folders, use the command cd(change directory)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+In the folder, paste the code `git clone https://github.com/AbraaoLeonardo/buzzfeed-in-angular`
 
-## Running end-to-end tests
+Now, we just need to start the serve `ng serve`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Finally, open your browser, and access the http://localhost:4200.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Dont worry, your answer will not be saved 😜:
